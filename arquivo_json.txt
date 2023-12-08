@@ -1,0 +1,11 @@
+{
+  "titulo": "O Guia do Mochileiro das Galáxias",
+  "autor": "Douglas Adams",
+  "publicacao": 1979,
+  "generos": ["Ficção Científica", "Comédia"],
+  "editora": {
+    "nome": "Editora Pan Books",
+    "localizacao": "Londres"
+  },
+  "disponivel": true
+}
